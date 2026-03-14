@@ -1,209 +1,0 @@
-Boost Intelligence Analysis Engine v1.1 — Copyright 2026 Boost Innovation Inc. All rights reserved. Unauthorized reproduction or distribution of this software is strictly prohibited.
-
-V1.1
-
-
-
-
-
-
-GRW PROJECT: BEHAVIOURAL PERFORMANCE INTELLIGENCE
-THE BODY NEVER
-LIES.
-Upload any video. In under 90 seconds, we decode 68+ facial signals, 120+ body language markers, and real-time focus states — the 93% of communication your scoreboard has never tracked.
-ANALYZE YOUR FOOTAGE FREE → SEE THE SCIENCE ↓
-68+
-FACIAL SIGNALS
-94.7%
-ACCURACY RATE
-<90s
-TIME TO REPORT%%SUPABASE_ANON_KEY55eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impzam1vbWdnaG55bmdndXF5ZHp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMzNzExMTAsImV4cCI6MjA4ODk0NzExMH0.EJqCh6LmqEFShH5X6WavcGk5gTUTrwNg25wrmh1SpUc
-6
-PEER-REVIEWED
-FRAMEWORKS
-THE SCIENCE
-BUILT ON WHAT THE RESEARCH ACTUALLY SAYS.
-Every signal category in this tool traces directly to peer-reviewed research. No proprietary black boxes. No invented frameworks. We cite our science because we stand behind it.
-FACS
-FACIAL ACTION CODING SYSTEM
-Developed by Dr. Paul Ekman and Dr. Wallace Friesen at UCSF. The FACS catalogues 44 individual Action Units — specific muscle contractions — that map to every human emotion. It's the foundation of professional lie detection, clinical psychology, and behavioural medicine worldwide.
-Ekman & Friesen, 1978 · University of California San Francisco
-KIN
-KINESICS
-Ray Birdwhistell's systematic study of body movement as communication. His framework identifies 120+ postural and gestural signal classes — the nonverbal vocabulary that operates below conscious awareness. The same framework used in forensic interviewing and elite coaching.
-Birdwhistell, 1970 · University of Pennsylvania
-FLOW
-FLOW STATE RESEARCH
-Mihaly Csikszentmihalyi's decades of research on optimal experience. Flow state has measurable physiological markers — blink rate, gaze behaviour, postural tension — that appear consistently across athletes, performers, and surgeons. This tool reads those markers in your footage.
-Csikszentmihalyi, 1990 · University of Chicago
-SYNC
-INTERPERSONAL SYNCHRONY
-Daniël Lakens' research on behavioural synchrony between individuals. When people align in posture, gesture timing, and micro-expression patterns, it predicts trust, cohesion, and collective performance. Essential for team and leadership analysis.
-Lakens, 2010 · Eindhoven University of Technology
-HOFSTEDE
-HOFSTEDE'S CULTURAL DIMENSIONS
-Geert Hofstede's 6-dimension model — Power Distance, Uncertainty Avoidance, Individualism, Masculinity, Long-Term Orientation, Indulgence — validated across 76 countries. The gold standard for measuring how group culture shapes individual behaviour under pressure.
-Hofstede, 1980–2010 · University of Maastricht
-CLT
-COGNITIVE LOAD THEORY
-John Sweller's framework for measuring how much the working memory is being taxed at any moment. High cognitive load leaves measurable traces in eye movement, micro-expression timing, and postural behaviour — signals that precede performance breakdown.
-Sweller, 1988 · University of New South Wales
-WHAT WE MEASURE
-THE 93% YOUR SCOREBOARD MISSES.
-Traditional performance metrics track outcomes. This tool tracks the signals that predict outcomes — the behavioural data that precedes every result, every mistake, every breakthrough moment.
-44
-ACTION UNITS
-INDIVIDUAL FACIAL MUSCLE CONTRACTIONS TRACKED PER FRAME, MAPPED TO EKMAN'S FACS TAXONOMY. EVERY EMOTION SIGNAL, INCLUDING SUPPRESSED ONES.
-120+
-BODY LANGUAGE SIGNALS
-POSTURAL CLUSTERS, GESTURAL PATTERNS, PROXEMIC BEHAVIOUR, AND SELF-REGULATION SIGNALS — CLASSIFIED USING BIRDWHISTELL'S KINESICS FRAMEWORK.
-6
-EMOTION CATEGORIES
-HAPPINESS, SADNESS, ANGER, FEAR, DISGUST, AND SURPRISE — WITH CONFIDENCE SCORES, DURATION TRACKING, AND MICRO-EXPRESSION TIMESTAMPS.
-3
-FOCUS STATE LAYERS
-BLINK RATE VARIANCE, GAZE DEFOCUS PATTERNS, AND ATTENTIONAL DISRUPTION MARKERS — CSIKSZENTMIHALYI'S FLOW STATE INDICATORS READ FROM YOUR FOOTAGE.
-WHO IT'S FOR
-BUILT FOR ANYONE WHO READS PEOPLE PROFESSIONALLY.
-If your work requires understanding how people perform under pressure — in sport, in the boardroom, on the field, or in the clinic — this tool was built for you.
-🏆
-PERFORMANCE COACHES
-Stop relying on instinct for what you can now measure. Game film, training sessions, pre-competition footage — every clip becomes a behavioural intelligence source.
-🏢
-HR & PEOPLE LEADERS
-Interview recordings, presentation reviews, leadership assessments — analyse them the same way elite sports organizations analyse performance footage.
-🔬
-RESEARCHERS & CLINICIANS
-Peer-reviewed frameworks, timestamped data, exportable reports. Designed to meet the rigour standards of academic and clinical research contexts.
-THE PROCESS
-THREE STEPS. ONE REPORT.
-The entire pipeline — from upload to branded PDF — runs in under 90 seconds. No account. No waiting. No guesswork.
-01
-UPLOAD YOUR FOOTAGE
-Drop any video file or paste a YouTube URL. Any format. Any length up to 2GB. Your footage never leaves your device — the analysis runs locally in your browser.
-02
-CONFIGURE YOUR ANALYSIS
-Select your context, focus area, and analysis depth. Optionally tell us about your role and industry — the more context you give, the more calibrated your recommendations.
-03
-GET YOUR REPORT
-Your performance scores render instantly. Upgrade to unlock the full report — detailed analysis, coaching recommendations, and a branded PDF delivered to your inbox.
-ANALYSIS DEPTH
-CHOOSE YOUR REPORT DEPTH.
-Every tier runs the full analysis pipeline. The difference is how deep the report goes, which signal layers are included, and how the coaching recommendations are calibrated.
-MONTHLY YEARLY
-SAVE 17%
-GROUP CULTURE ADD-ON:
-+ CULTURE ($30/MO)
-WITHOUT
-STANDARD
-$9.99
-
-BILLED MONTHLY
-
-The fastest way to go from gut feeling to evidence. You get the full behavioural read — facial signals, body language, performance timeline — in a clean, shareable PDF. If you've never used a tool like this, Standard is the smartest starting point.
-WHAT'S INCLUDED
-	•	Facial Expression Analysis 44 Action Units tracked, 6 primary emotion categories scored, micro-expression timestamps identified Body Language Classification 120+ postural and gestural signals classified across the full footage Performance Timeline Colour-coded arc showing engagement, pressure, and recovery windows minute by minute 4-Perspective Coaching What to measure, what to change, what's working, and 4 curated resources specific to your context Branded PDF Report Professionally designed, shareable with coaches, managers, or HR — generated in under 90 seconds Mental Focus & Flow State Not included — available in Detailed & Deep Dive Group Culture Psychology Not included — add Group Culture toggle above
-GET STANDARD REPORT
-MOST POPULAR
-DETAILED
-$19.99
-
-BILLED MONTHLY
-
-The complete picture. Everything in Standard, plus the mental focus and flow state layer — the data that separates elite performers from everyone else.
-WHAT'S INCLUDED
-	•	Everything in Standard Full facial, body language, timeline, 4-perspective coaching, and PDF delivery Mental Focus & Flow State Blink rate variance, gaze defocus detection, attention span mapping, and flow state onset identification Cognitive Load Timeline When the brain is performing, when it's drifting, and when it hits overload Attentional Disruption Markers Every focus break timestamped with context and likely cause Refocus Speed Rating How fast the subject returns to optimal attention after disruption Enhanced Recommendations Deeper coaching insight informed by the full mental focus data layer Group Culture Psychology Not included — add Group Culture toggle above
-GET DETAILED REPORT
-DEEP DIVE
-$29.99
-
-BILLED MONTHLY
-
-For the professionals, the researchers, and the ones who need every signal. Nothing is left on the table.
-WHAT'S INCLUDED
-	•	Everything in Standard & Detailed Every signal, every layer, every recommendation from both tiers Full Footage Processing No truncation — the complete duration analysed from first frame to last Expanded Recommendations Deeper guidance across all 4 perspectives with level-calibrated specificity Primary Goals Integration Your selected goals directly condition every section of the report Priority PDF Generation Processed ahead of queue with priority delivery to your inbox Session History & Archiving Report ID system for tracking behavioural progress over time Group Culture Psychology Hofstede 6-dimension profile included when Group Culture toggle is active
-GET DEEP DIVE REPORT
-FREE ANALYSIS
-GET YOUR PERFORMANCE REPORT IN 90 SECONDS.
-No account. No signup. Upload your footage or paste a YouTube URL, configure your analysis, and get a full behavioural intelligence score — free.
-1
-ADD VIDEO
-
-2
-CONFIGURE
-
-3
-ANALYZE
-📋
-VIDEO REQUIREMENTS & BEST PRACTICES
-WHAT MAKES A GOOD ANALYSIS VIDEO — TAP TO EXPAND
-▾
-📁UPLOAD FILE
-▶YOUTUBE URL
-
-📹
-DROP YOUR VIDEO HERE
-Or click to browse — any format up to 2GB
-MP4 · MOV · AVI · MKV · WEBM
-Upload or link a video above, then click Run Analysis.
-STEP 2: CONFIGURE ANALYSIS
-STAY SHARP
-THE FREE INSIGHTS MOST COACHES NEVER SEE.
-Not every coach, HR director, or performance researcher is ready to run a full report today. That's completely fine. The weekly insight list is free, practical, and built around the same science this tool runs on — facial AU patterns, body language signals, flow state triggers. No fluff. No pitch-first garbage. Just the data.
-FREE WEEKLY INSIGHTS
-PERFORMANCE SCIENCE
-IN YOUR INBOX
-Every week, one behavioural signal. What the research says, what it looks like on film, and how to coach it. Used by coaches in hockey, rugby, corporate L&D, and clinical sport psych — anyone who reads people for a living.
-
-
-SEND ME THE FREE INSIGHTS →
-No cost. No credit card. Unsubscribe with one click. Your email is never shared, sold, or used for anything other than sending you the weekly insight.
-By subscribing, you agree to receive weekly email content from Boost Innovation. Canadian CASLcompliant. You can unsubscribe at any time.
-WHAT HAPPENS WHEN YOU SIGN UP
-DAY 0
-THE MICRO-EXPRESSION CHEAT SHEET
-A one-page reference guide to all 6 core emotion categories mapped to specific Action Units — the same framework the tool uses. Bookmark it, print it, use it in your next session.
-DAY 3
-THE 3 BODY LANGUAGE SIGNALS THAT PREDICT PERFORMANCE
-Not the obvious ones. These are the signals in the literature that get missed in live coaching because they're too fast to catch without frame-by-frame review. Backed by Birdwhistell's kinesics framework.
-DAY 7
-WHAT FLOW STATE ACTUALLY LOOKS LIKE ON CAMERA
-Csikszentmihalyi defined it. Most people can't identify it in footage. This breakdown shows you the blink rate, gaze behaviour, and postural signals that co-occur during peak cognitive performance — and what disrupts them.
-DAY 14
-YOUR FIRST REPORT — 30% OFF
-After two weeks of free insight, you'll have enough context to know exactly which tier makes sense for your work. Subscribers get a one-time 30% discount code for their first report — no strings attached.
-WEEKLY
-THE ONGOING INSIGHT FEED
-After the onboarding sequence, one fresh signal per week. Hofstede cultural dimensions, cognitive load markers, pressure vs. anxiety differentiation, new research. The kind of material that gives you an edge in any performance context.
-BUILT ON INTEGRITY
-WHY YOU CAN TRUST THIS TOOL.
-We built this for coaches, executives, and healthcare leaders who handle sensitive footage of real people. That comes with a responsibility we take seriously. Here's exactly what we do — and don't do — with your data.
-NO
-ZERO FOOTAGE STORAGE
-Your video never leaves your device. We do not upload, store, transmit, or retain any video footage — ever. The analysis pipeline runs locally in your browser. Once you close the tab, the footage is gone. No exceptions. No backdoors.
-NO
-NO IDENTIFYING DATA CAPTURED
-We do not capture, extract, or store biometric identifiers — no facial recognition vectors, no voiceprints, no names linked to footage. The system measures behavioral signals (Action Units, postural patterns, gaze direction) — not who a person is. Your subjects are never identified in our systems.
-✓
-CANADIAN PRIVACY LAW COMPLIANT
-Our data practices comply with PIPEDA (Canada's federal private sector privacy law) and applicable provincial privacy legislation. We collect only the minimum information required to deliver your report and operate our service. You have the right to request, correct, or delete any personal information we hold.
-✓
-GDPR-ALIGNED PRACTICES
-While we operate under Canadian law, our data practices are designed to meet GDPR standards for users in the European Economic Area. This includes lawful basis for processing, data minimization, purpose limitation, and your rights to access and erasure. We don't sell your data. Full stop.
-✓
-PEER-CITED SCIENTIFIC FOUNDATION
-Every signal category in this tool is grounded in published, peer-reviewed research: Ekman's Facial Action Coding System (FACS), Birdwhistell's Kinesics framework, Csikszentmihalyi's Flow State research, Lakens' interpersonal synchrony studies, and Hofstede's 6-dimension cultural model. We cite our science because we stand behind it.
-✓
-SECURE PAYMENT PROCESSING
-All payments are processed by Stripe — the global standard for online payment security. We never see or handle your credit card information. Stripe is PCI DSS Level 1 certified, the highest level of payment security certification available. Your financial data is protected by the same infrastructure used by Amazon and Google.
-PIPEDA COMPLIANT
-GDPR-ALIGNED
-NO FOOTAGE STORED
-NO BIOMETRIC ID
-STRIPE PCI DSS L1
-SCIENCE-BACKED
-SOC 2 INFRASTRUCTURE
-DATA MINIMIZATION
-RIGHT TO ERASURE
-
-© 2026 BOOST INNOVATION · BOOSTINNOVATION.CA · ALL RIGHTS RESERVED · V1.1
